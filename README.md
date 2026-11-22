@@ -59,3 +59,36 @@
   <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
 </svg>
 ```
+
+
+```html
+<!-- Usuario -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-label="Usuario" role="img">
+  <path d="M12 2a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9zM3.5 20.4C3.5 15.5 5 12.3 8.2 11.5c.9-.2 1.7.7 3.8.7s2.9-.9 3.8-.7c3.2.8 4.7 4 4.7 8.9 0 1-.6 1.6-1.6 1.6H5.1c-1 0-1.6-.6-1.6-1.6z"/>
+</svg>
+```
+
+```html
+<!-- Mensajes -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-label="Mensajes" role="img">
+  <path d="M4 3h16a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H9l-4.3 3.6A.8.8 0 0 1 3.4 21V18H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z"/>
+</svg>
+```
+
+```html
+<!-- Home -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-label="Home" role="img">
+  <path d="M12 2.6a1 1 0 0 1 .65.24l8.5 7.2a1 1 0 0 1 .35.76V20a1.5 1.5 0 0 1-1.5 1.5H15v-6.25a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1V21.5H4.5A1.5 1.5 0 0 1 3 20v-9.2a1 1 0 0 1 .35-.76l8-7.2A1 1 0 0 1 12 2.6z"/>
+</svg>
+```
+
+```html
+<!-- Buscar -->
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-label="Buscar" role="img">
+  <path d="M10.5 2.5a8 8 0 1 1 0 16 8 8 0 0 1 0-16zM10.5 4.9a5.6 5.6 0 1 0 0 11.2 5.6 5.6 0 0 0 0-11.2zM16.66 14.54L21.66 19.54A1.5 1.5 0 0 1 19.54 21.66L14.54 16.66z"/>
+</svg>
+</a>
+```
+
+
+
